@@ -1,105 +1,105 @@
-<div align="center">
-
-# 👋 Hi, I'm Susil
-
-### Backend Developer • Ethical Hacker • Cyber Security Learner
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Backend+Developer;Ethical+Hacker;Building+Secure+Applications;Learning+Cyber+Security;Always+Learning+New+Things" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=susilxreactor021-png&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-# 🚀 About Me
-
-* 🔐 Passionate about **Ethical Hacking & Cyber Security**
-* 💻 Learning **Backend Development**
-* 🌐 Building **Secure Web Applications**
-* 🎓 Developing a **College LMS**
-* 🛒 Building an **Advanced E-commerce Platform**
-* 🇳🇵 Based in Nepal
-
----
-
-# 🛠 Tech Stack
+<h1 align="center">Hi 👋, I'm Susil</h1>
+<h3 align="center">Backend Developer • Ethical Hacker • Secure Web Builder</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,laravel,python,git,github,linux,vscode" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Ethical+Hacker;Cyber+Security+Learner;Building+Secure+Web+Applications;Learning+Everyday" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 About Me
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=susilxreactor021-png&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susilxreactor021-png&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susilxreactor021-png&theme=tokyonight&hide_border=true"/>
-
-</div>
+- 🔐 Interested in **Ethical Hacking & Cyber Security**
+- 💻 Learning **Backend Development**
+- 🌐 Building **secure web applications**
+- 🛒 Working on **Advanced E-commerce Website**
+- 🎓 Working on **College LMS Project**
+- 📍 From **Nepal**
 
 ---
 
-# 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=susilxreactor021-png&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,php,laravel,git,github,linux,vscode" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🔥 Current Focus
 
-| Project                | Description                                        |
-| ---------------------- | -------------------------------------------------- |
-| 🎓 College LMS         | Learning Management System for Students & Teachers |
-| 🛒 Advanced E-commerce | Modern Shopping Website                            |
-| 🔐 Cyber Security Labs | Ethical Hacking Practice Projects                  |
-| 🌐 Portfolio           | Personal Developer Website                         |
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Become a Professional Backend Developer
-* 🔐 Improve Cyber Security Skills
-* ⚡ Build Large Real-World Projects
-* 🌍 Contribute to Open Source
-* 📚 Learn New Technologies Every Day
+- 🚀 Building advanced web projects  
+- 🔐 Learning backend security  
+- 🧠 Improving JavaScript and Node.js  
+- 🎓 Developing College LMS  
+- 🛒 Improving E-commerce platform  
 
 ---
 
-# 📫 Contact
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=susilxreactor021-png&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="mailto:susilxreactor021@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susilxreactor021-png&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susilxreactor021-png&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## 🏆 GitHub Trophies
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=susilxreactor021-png&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-**"Breaking and building securely."**
+---
 
-</div>
+## 🚀 Featured Projects
+
+### 🛒 E-commerce Website
+Modern shopping website with product pages, cart, checkout, admin pages, and responsive design.
+
+### 🎓 College LMS
+Learning Management System for students, teachers, courses, assignments, and dashboards.
+
+### 🔐 Cyber Security Practice
+Ethical hacking and cyber security learning projects.
+
+### 🌐 Portfolio Website
+Personal developer portfolio to showcase skills and projects.
+
+---
+
+## 🎯 Goals
+
+- Become a strong backend developer  
+- Build secure full-stack applications  
+- Improve ethical hacking skills  
+- Create professional real-world projects  
+- Contribute more on GitHub  
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:susilxreactor021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-susilxreactor021@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>🔐 “Breaking and building securely.” 🔐</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=susilxreactor021-png&label=Profile%20Views&color=00ff00&style=flat" />
+</p>
