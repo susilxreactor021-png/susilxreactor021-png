@@ -3,8 +3,9 @@
 <!-- Animated banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sushil%20Thapa&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Secure%20Web%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Breaking+vulnerabilities%2C+building+defences.;Backend+engineer+%7C+Security+enthusiast.;Writing+code+that+attackers+can%27t+break.;Full-stack+thinker%2C+security-first+mindset." />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Ethical+Hacker;Cyber+Security+Learner;Building+Secure+Web+Applications;Learning+Everyday" />
+</p>
 
 <br/>
 
@@ -21,9 +22,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Ethical+Hacker;Cyber+Security+Learner;Building+Secure+Web+Applications;Learning+Everyday" />
-</p>
+
 
 ## `whoami`
 
