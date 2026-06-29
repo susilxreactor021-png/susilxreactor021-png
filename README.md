@@ -79,27 +79,13 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+---
 
-**Languages**
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,js,php,html,css&theme=dark" />
-
-**Backend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,mongodb&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
-
-**Security & DevOps**
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,docker&theme=dark" />
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,php,laravel,git,github,linux,vscode" />
+</p>
 
 ---
 
@@ -184,6 +170,11 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
     <code>// Breaking vulnerabilities. Building defences. Learning every day.</code>
   </sub>
 </div>
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Susil</h1>
 <h3 align="center">Backend Developer • Ethical Hacker • Secure Web Builder</h3>
