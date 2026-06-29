@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=220&section=header&text=Sushil%20Thapa&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20Secure%20Web%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=00E5FF&background=0D111700&center=true&vCenter=true&width=900&lines=Backend+Developer;Ethical+Hacker;Cyber+Security+Learner;Building+Secure+Web+Applications;Learning+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Ethical+Hacker;Cyber+Security+Learner;Building+Secure+Web+Applications;Learning+Everyday" />
 </p>
 
 <br/>
@@ -12,7 +12,7 @@
 <!-- Status badges -->
 <img src="https://img.shields.io/badge/Status-Building%20%26%20Breaking-00E5FF?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Nepal%20🇳🇵-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Location-Nepal-00FF41?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Security%20%2B%20Backend-8B5CF6?style=for-the-badge&labelColor=0d1117" />
 
@@ -31,7 +31,7 @@ $ cat /etc/profile.d/sushil.sh
 ```txt
 NAME        =  Sushil Thapa
 ROLE        =  Backend Developer & Ethical Hacking Student
-LOCATION    =  Nepal 🇳🇵
+LOCATION    =  Nepal
 FOCUS       =  Secure Web Applications | Penetration Testing | LMS Development
 CURRENT     =  College LMS + Advanced E-commerce Platform
 PHILOSOPHY  =  "Understand the attack. Build the defence."
@@ -92,9 +92,12 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=susilxreactor021-png&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=00E5FF" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susilxreactor021-png&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" />
+<!-- These badge cards are used instead of broken third-party stats images -->
+<img src="https://img.shields.io/badge/Total%20Contributions-44-00E5FF?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Current%20Streak-1-8B5CF6?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Longest%20Streak-3-00FF41?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -109,7 +112,13 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 ## 🏆 Trophies
 
 <div align="center">
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=susilxreactor021-png&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+<img src="https://img.shields.io/badge/Quickdraw-x1-00E5FF?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pull%20Shark-x1-8B5CF6?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Committer-Active-00FF41?style=for-the-badge&labelColor=0d1117" />
+
 </div>
 
 <br/>
