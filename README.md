@@ -28,7 +28,7 @@
 $ cat /etc/profile.d/sushil.sh
 ```
 
-```
+```txt
 NAME        =  Sushil Thapa
 ROLE        =  Backend Developer & Ethical Hacking Student
 LOCATION    =  Nepal 🇳🇵
@@ -76,7 +76,7 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 
 <br/>
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -86,22 +86,19 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 
 ---
 
-
 <br/>
-
-
 
 ## 📊 GitHub Intelligence
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=susilxreactor021-png&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=A259FF&text_color=c9d1d9&ring_color=00D4FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=susilxreactor021-png&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=00E5FF" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susilxreactor021-png&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susilxreactor021-png&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=susilxreactor021-png&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=6e7681" />
+<img width="70%" src="https://streak-stats.demolab.com?user=susilxreactor021-png&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=6e7681" />
 
 </div>
 
@@ -112,7 +109,7 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 ## 🏆 Trophies
 
 <div align="center">
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=susilxreactor021-png&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=susilxreactor021-png&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </div>
 
 <br/>
@@ -122,7 +119,7 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 ## 📈 Contribution Activity
 
 <div align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=susilxreactor021-png&bg_color=0d1117&color=00D4FF&line=A259FF&point=FF6B6B&area=true&area_color=00D4FF&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=susilxreactor021-png&bg_color=0d1117&color=00E5FF&line=8B5CF6&point=FF6B6B&area=true&area_color=00E5FF&hide_border=true" />
 </div>
 
 <br/>
@@ -131,7 +128,7 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 
 ## 🎯 2025 Targets
 
-```
+```txt
 [████████░░░░░░░░░░░░]  40%   Master Node.js & Express security patterns
 [██████░░░░░░░░░░░░░░]  30%   Complete CEH / eJPT certification path
 [█████████░░░░░░░░░░░]  45%   Ship production-ready LMS
@@ -143,36 +140,22 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 
 ---
 
-
-
 ## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:susilxreactor021@gmail.com">
-    <img src="https://img.shields.io/badge/Email-susilxreactor021@gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-susilxreactor021@gmail.com-red?style=for-the-badge&logo=gmail&labelColor=0d1117" />
   </a>
 </p>
 
 ---
-
-
-
-
-
 
 <p align="center">
   <b>🔐 “Breaking and building securely.” 🔐</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=susilxreactor021-png&label=Profile%20Views&color=00ff00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=susilxreactor021-png&label=Profile%20Views&color=00E5FF&style=for-the-badge" />
 </p>
 
-
-
-
-
-
-
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=110&section=footer" />
