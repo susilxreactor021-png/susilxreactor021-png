@@ -21,6 +21,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Ethical+Hacker;Cyber+Security+Learner;Building+Secure+Web+Applications;Learning+Everyday" />
+</p>
+
 ## `whoami`
 
 ```bash
@@ -151,6 +155,11 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 
 ---
 
+
+
+
+
+
 <p align="center">
   <b>🔐 “Breaking and building securely.” 🔐</b>
 </p>
@@ -158,3 +167,12 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=susilxreactor021-png&label=Profile%20Views&color=00ff00&style=flat" />
 </p>
+
+
+
+
+
+
+
+
+
