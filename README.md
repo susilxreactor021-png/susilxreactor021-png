@@ -373,7 +373,7 @@ A personal website presenting my projects, development skills and cybersecurity 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/susilxreactor021-png/susilxreactor021-png/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake animation">
+<img src="./output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake animation">
 
 </div>
 
