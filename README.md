@@ -373,7 +373,7 @@ A personal website presenting my projects, development skills and cybersecurity 
 
 <div align="center">
 
-<img src="./output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake animation">
+<img src="./output/github-contribution-grid-snake.svg" width="95%" alt="Contribution snake animation">
 
 </div>
 
@@ -445,5 +445,3 @@ A personal website presenting my projects, development skills and cybersecurity 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=110&section=footer" width="100%" alt="Footer banner">
-#   s u s i l x r e a c t o r 0 2 1 - p n g  
- 
