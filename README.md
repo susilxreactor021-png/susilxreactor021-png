@@ -8,6 +8,11 @@
 
 <br><br>
 
+<p align="center">
+  <img src="./assets/sushil-hacker-lanyard.svg" alt="Hacker lanyard badge" width="420">
+</p>
+
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Ethical+Hacking+Student;Cybersecurity+Learner;Building+Secure+Web+Applications;React+%7C+Node.js+%7C+Laravel+Developer" alt="Typing introduction">
 
 <br>
