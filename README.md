@@ -9,7 +9,7 @@
 <br><br>
 
 <p align="center">
-  <img src="./assets/sushil-hacker-lanyard.svg" alt="Hacker lanyard badge" width="420">
+  <img src="./assets/sushil-hacker-lanyard-sanitized.svg" alt="Hacker lanyard badge (sanitized)" width="420">
 </p>
 
 
