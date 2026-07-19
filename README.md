@@ -65,7 +65,7 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 <tbody>
 <tr>
 <td>
-<a href="https://github.com/susilxreactor021-png/college_app">🎓 College LMS</a>
+<a href="https://github.com/susilxreactor021-png/Susil_Id">🎓 Susil_Id</a>
 </td>
 <td align="center">
 <code>React</code>
@@ -144,33 +144,13 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎓 College LMS</h3>
+<h3 align="center">🎓 Susil_Id</h3>
 
-A full-stack learning platform for students, teachers and college administrators.
-
-<strong>Core features</strong>
-
-<ul>
-<li>Student and administrator portals</li>
-<li>Microsoft Entra ID authentication</li>
-<li>Course and lesson management</li>
-<li>Assignment submission and reports</li>
-<li>Attendance and progress tracking</li>
-<li>Web and React Native mobile apps</li>
-<li>Secure role-based authorization</li>
-</ul>
-
-<p>
-<code>React</code>
-<code>React Native</code>
-<code>Node.js</code>
-<code>Express</code>
-<code>MongoDB</code>
-</p>
+A repository replacing the previous College LMS entry. View the project on GitHub.
 
 <p align="center">
-<a href="https://github.com/susilxreactor021-png/college_app">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="View College LMS">
+<a href="https://github.com/susilxreactor021-png/Susil_Id">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="View Susil_Id">
 </a>
 </p>
 
