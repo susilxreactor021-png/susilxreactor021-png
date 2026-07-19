@@ -10,7 +10,8 @@
    README.md
    assets/sushil-banner.svg
    assets/sushil-banner-light.svg
-   assets/sushil-lanyard.svg
+   assets/sushil-hacker-lanyard.svg
+   assets/sushil-hacker-lanyard-preview.png
    assets/sushil-trophies.svg
    .github/workflows/snake.yml
    ```
