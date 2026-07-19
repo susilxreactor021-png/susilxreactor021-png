@@ -47,11 +47,11 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<a href="./assets/sushil-hacker-lanyard.svg">
-  <img src="./assets/sushil-hacker-lanyard-preview.png" alt="Sushil Thapa developer ID card - Hacker Lanyard" width="330">
+<a href="./assets/sushil-hacker-lanyard-preview.png">
+  <img src="./assets/sushil-hacker-lanyard-preview.gif" alt="Animated Sushil Thapa developer ID card - Hacker Lanyard" width="330">
 </a>
 
-<sub>Click the badge to open the animated SVG.</sub>
+<sub>Click the animated badge to open the full-resolution PNG.</sub>
 
 </td>
 <td width="62%" valign="middle">
