@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Sushil Thapa profile banner</title>
+<desc id="desc">Backend Developer, Ethical Hacking Student and Secure Web Builder</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#020024"/>
+    <stop offset="0.5" stop-color="#090979"/>
+    <stop offset="1" stop-color="#00b9d8"/>
+  </linearGradient>
+  <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00e5ff" stop-opacity=".08"/>
+    <stop offset=".5" stop-color="#8b5cf6" stop-opacity=".23"/>
+    <stop offset="1" stop-color="#00e676" stop-opacity=".12"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+  </pattern>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="280" rx="18" fill="#0d1117"/>
+<rect x="2" y="2" width="1196" height="276" rx="16" fill="url(#bg)"/>
+<rect x="2" y="2" width="1196" height="276" rx="16" fill="url(#grid)"/>
+<g opacity=".55" font-family="monospace" font-size="12" fill="#00e676">
+  <text x="36" y="45">01010011 01010101 01010011 01001000 01001001 01001100</text>
+  <text x="760" y="245">SECURE • BUILD • TEST • IMPROVE</text>
+</g>
+<circle cx="1030" cy="72" r="80" fill="#00e5ff" opacity=".08"/>
+<circle cx="1080" cy="95" r="45" fill="#8b5cf6" opacity=".12"/>
+<path d="M0 226 C220 188 360 260 600 222 C800 190 970 210 1200 242 V280 H0 Z" fill="url(#wave)"/>
+<g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+  <text x="600" y="120" fill="#ffffff" font-size="66" font-weight="800" letter-spacing="1">Sushil Thapa</text>
+  <text x="600" y="164" fill="#dbeafe" font-size="22" font-weight="700">Backend Developer • Ethical Hacking Student • Secure Web Builder</text>
+  <text x="600" y="205" fill="#00e5ff" font-size="15" font-family="monospace" font-weight="700" filter="url(#glow)">UNDERSTAND THE ATTACK  •  BUILD THE DEFENCE</text>
+</g>
+</svg>
