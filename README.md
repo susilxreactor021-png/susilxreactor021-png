@@ -8,11 +8,6 @@
 
 <br><br>
 
-<p align="center">
-  <img src="./assets/sushil-hacker-lanyard-sanitized.svg" alt="Hacker lanyard badge (sanitized)" width="420">
-</p>
-
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Ethical+Hacking+Student;Cybersecurity+Learner;Building+Secure+Web+Applications;React+%7C+Node.js+%7C+Laravel+Developer" alt="Typing introduction">
 
 <br>
@@ -52,7 +47,11 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/sushil-hacker-lanyard.svg" alt="Sushil Thapa developer ID card - Hacker Lanyard" width="330">
+<a href="./assets/sushil-hacker-lanyard.svg">
+  <img src="./assets/sushil-hacker-lanyard-preview.png" alt="Sushil Thapa developer ID card - Hacker Lanyard" width="330">
+</a>
+
+<sub>Click the badge to open the animated SVG.</sub>
 
 </td>
 <td width="62%" valign="middle">
