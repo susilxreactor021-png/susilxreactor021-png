@@ -47,7 +47,7 @@ PHILOSOPHY  =  "Understand the attack. Build the defence."
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/sushil-lanyard.svg" alt="Sushil Thapa developer ID card" width="330">
+<img src="./assets/sushil-hacker-lanyard.svg" alt="Sushil Thapa developer ID card - Hacker Lanyard" width="330">
 
 </td>
 <td width="62%" valign="middle">
