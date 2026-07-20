@@ -27,7 +27,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-pink.svg?color_snake=#ff7eb6&color_dots=#2d1b4e,#5b2a86,#8b5cf6,#c084fc,#ff7eb6
+            dist/github-contribution-grid-snake-pink-dark.svg?color_snake=#ff6eb5&color_dots=#050714,#34133f,#70205f,#b92b82,#ff64b0
 
       - name: Commit generated files
         run: |

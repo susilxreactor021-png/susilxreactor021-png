@@ -362,7 +362,7 @@ A personal website presenting my projects, development skills and cybersecurity 
 
 <div align="center">
 
-<img src="./output/github-contribution-grid-snake.svg" width="95%" alt="Contribution snake animation">
+<img src="./output/github-contribution-grid-snake-pink-dark.svg" width="95%" alt="Animated pink snake on a dark contribution grid">
 
 </div>
 
