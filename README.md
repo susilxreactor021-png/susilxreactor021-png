@@ -312,16 +312,21 @@ A personal website presenting my projects, development skills and cybersecurity 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=susilxreactor021-png&theme=tokyonight" height="185" alt="GitHub statistics">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=susilxreactor021-png&theme=tokyonight" height="185" alt="Top programming languages">
+<a href="https://github.com/susilxreactor021-png?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsusilxreactor021-png&query=%24.public_repos&label=Public%20Repositories&color=00E5FF&labelColor=0D1117&style=for-the-badge&logo=github" alt="Public repository count">
+</a>
+<a href="https://github.com/susilxreactor021-png?tab=followers">
+  <img src="https://img.shields.io/github/followers/susilxreactor021-png?label=Followers&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" alt="GitHub followers">
+</a>
+<a href="https://github.com/susilxreactor021-png?tab=repositories">
+  <img src="https://img.shields.io/badge/Primary%20Language-HTML-FF5F6D?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" alt="Primary language: HTML">
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=susilxreactor021-png&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF5F6D&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=6E7681" width="70%" alt="GitHub contribution streak">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=susilxreactor021-png&theme=tokyonight" width="95%" alt="GitHub profile details">
+<a href="https://github.com/susilxreactor021-png">
+  <img src="https://img.shields.io/badge/View_Live-Contribution_Activity-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View live GitHub contribution activity">
+</a>
 
 </div>
 
